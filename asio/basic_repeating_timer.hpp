@@ -13,7 +13,7 @@
 // - uses an executor instead of an io_service or io_context.
 
 #include <boost/asio.hpp>
-#include <boost/bind.hpp>
+#include <boost/bind/bind.hpp>
 #include <boost/date_time/posix_time/posix_time.hpp>
 #include <boost/thread/recursive_mutex.hpp>
 #include <boost/shared_ptr.hpp>
